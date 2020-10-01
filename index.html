@@ -315,7 +315,7 @@
                     <h2 class="section-heading text-uppercase">Contact Me</h2>
                     <h3 class="section-subheading text-muted">If you have any questions for me please reach me through email.</h3>
                 </div>
-                <form id="contactForm" name="sentMessage" novalidate="novalidate">
+                <form id="contactForm"  novalidate="novalidate">
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
                             <div class="form-group">
@@ -556,7 +556,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
         <!-- Contact form JS-->
         <script src="Scripts/jqBootstrapValidation.js"></script>
-        <script src="Scripts/contact_me.js"></script>
+        <!--<script src="Scripts/contact_me.js"></script>-->
         <!-- Core theme JS-->
         <script src="Scripts/scripts.js"></script>
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
@@ -566,7 +566,7 @@
         <script>
             const btn = document.getElementById('button');
 
-            document.querySelector("contactForm")
+            document.getElementById("contactForm")
             .addEventListener('submit', function (event) {
             event.preventDefault();
 
