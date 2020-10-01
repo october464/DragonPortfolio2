@@ -89,7 +89,6 @@
     <Content Include="Images\envato.jpg" />
     <Content Include="Images\favicon.ico" />
     <Content Include="Images\map-image.png" />
-    <Content Include="Images\navbar-logo.svg" />
     <Content Include="Content\styles.css" />
     <Content Include="Images\themeforest.jpg" />
     <Content Include="Images\WOW.jpg" />
@@ -112,9 +111,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="NewFolder1\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
