@@ -93,6 +93,7 @@
     <Content Include="Images\navbar-logo.svg" />
     <Content Include="Content\styles.css" />
     <Content Include="Images\themeforest.jpg" />
+    <Content Include="Images\WOW.jpg" />
     <Content Include="index.html" />
     <Content Include="Scripts\contact_me.js" />
     <Content Include="Scripts\contact_me.php" />
@@ -112,7 +113,9 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
