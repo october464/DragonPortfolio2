@@ -53,5 +53,25 @@
     navbarCollapse();
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
-})(jQuery); // End of use strict
+})(jQuery);
+//Email.js script
+    const btn = document.getElementById('button');
 
+    document.getElementById("contactForm")
+                .addEventListener('submit', function (event) {
+        event.preventDefault();
+
+                    btn.value = 'Sending...';
+
+                    const serviceID = 'default_service';
+                    const templateID = 'template_hked09j';
+
+                    emailjs.sendForm(serviceID, templateID, this)
+                        .then(() => {
+        btn.value = 'Send Email';
+                            alert('Sent!');
+                        }, (err) => {
+        btn.value = 'Something went Wrong';
+                            alert(JSON.stringify(err));
+                        });
+                });// End of use strict
