@@ -87,10 +87,13 @@
     <Content Include="Images\creative-market.jpg" />
     <Content Include="Images\designmodo.jpg" />
     <Content Include="Images\envato.jpg" />
+    <Content Include="Images\FacebookICON.png" />
     <Content Include="Images\favicon.ico" />
+    <Content Include="Images\LinkedinICON.png" />
     <Content Include="Images\map-image.png" />
     <Content Include="Content\styles.css" />
     <Content Include="Images\themeforest.jpg" />
+    <Content Include="Images\TwitterICON.png" />
     <Content Include="Images\WOW.jpg" />
     <Content Include="index.html" />
     <Content Include="Scripts\contact_me.js" />
