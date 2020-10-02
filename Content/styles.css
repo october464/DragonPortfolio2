@@ -10431,16 +10431,16 @@ header.masthead .masthead-heading {
     padding: 0 100px 20px 20px;
   }
 }
-.team-member {
+.social {
   margin-bottom: 3rem;
   text-align: center;
 }
-.team-member img {
+.social img {
   width: 14rem;
   height: 14rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
 }
-.team-member h4 {
+.social h4 {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
