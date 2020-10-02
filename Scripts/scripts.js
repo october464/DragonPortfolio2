@@ -68,10 +68,10 @@
 
                     emailjs.sendForm(serviceID, templateID, this)
                         .then(() => {
-        btn.value = 'Send Email';
+                            btn.value = 'Send Email';
                             alert('Sent!');
                         }, (err) => {
-        btn.value = 'Something went Wrong';
+                            btn.value = 'Send Email';
                             alert(JSON.stringify(err));
                         });
                 });// End of use strict
