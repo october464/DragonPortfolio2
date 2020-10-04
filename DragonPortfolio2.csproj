@@ -68,8 +68,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\all.min.css" />
+    <Content Include="Images\C#.png" />
+    <Content Include="Images\FizzBuzzFull.jpg" />
+    <Content Include="Images\FizzBuzzThumb.jpg" />
     <Content Include="Images\HeadShot.JPG" />
+    <Content Include="Images\JON.JPG" />
+    <Content Include="Images\JON2.jpg" />
     <Content Include="Images\MACHO.jpg" />
+    <Content Include="Images\MarylandFlag.jpg" />
     <Content Include="Images\ME.jpg" />
     <Content Include="webfonts\fa-brands-400.svg" />
     <Content Include="webfonts\fa-regular-400.svg" />
