@@ -11,20 +11,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-
-.btn {
-    background-color: DodgerBlue;
-    border: none;
-    color: white;
-    padding: 12px 30px;
-    cursor: pointer;
-    font-size: 20px;
-}
-    /* Darker background on mouse-over */
-    .btn:hover {
-        background-color: RoyalBlue;
-    }
-
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -490,7 +476,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .img-thumbnail {

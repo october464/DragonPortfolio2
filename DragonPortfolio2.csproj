@@ -68,8 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\all.min.css" />
+    <Content Include="Images\HeadShot.JPG" />
     <Content Include="Images\MACHO.jpg" />
-    <Content Include="Scripts\MyScripts.js" />
+    <Content Include="Images\ME.jpg" />
     <Content Include="webfonts\fa-brands-400.svg" />
     <Content Include="webfonts\fa-regular-400.svg" />
     <Content Include="webfonts\fa-solid-900.svg" />
