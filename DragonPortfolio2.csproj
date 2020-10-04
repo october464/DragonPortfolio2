@@ -68,7 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\all.min.css" />
-    <Content Include="Images\C#.png" />
     <Content Include="Images\FizzBuzzFull.jpg" />
     <Content Include="Images\FizzBuzzThumb.jpg" />
     <Content Include="Images\HeadShot.JPG" />
