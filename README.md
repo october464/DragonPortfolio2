@@ -5,7 +5,7 @@
  I work [here](https://coder-foundry.com)
 ---
 ***
-this is a link wwith hover text [mini site example](link)
+this is a link wwith hover text [my portfolio site](https://jonathanportfolio.netlify.app/)
 
 1. there is a 
 2. hole
