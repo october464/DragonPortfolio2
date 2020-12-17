@@ -82,6 +82,10 @@
     <Content Include="Images\MACHO.jpg" />
     <Content Include="Images\MarylandFlag.jpg" />
     <Content Include="Images\ME.jpg" />
+    <Content Include="Images\SumAllFears.JPG" />
+    <Content Include="Images\SumAllFearsTumb.png" />
+    <Content Include="Images\sunset hills.jpg" />
+    <Content Include="Images\sunset hillsThumb.jpg" />
     <Content Include="Scripts\MyScripts.js" />
     <Content Include="Scripts\NewCustom.js" />
     <Content Include="webfonts\fa-brands-400.svg" />
